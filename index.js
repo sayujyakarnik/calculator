@@ -1,4 +1,4 @@
-var displayText = "0";
+var displayText = "";
 var content = document.getElementById("display");
 
 function addNumber(value) {
